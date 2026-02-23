@@ -1,0 +1,601 @@
+
+    === IT SECURITY CLASSIFICATION MATRIX v9.0 ===
+    ROLE DEFINITIONS:
+    
+    1. JUNIOR DEVELOPER: Tier-3 Access. Remote Allowed.
+    2. SENIOR ARCHITECT: Tier-2 Access. Remote Allowed.
+    3. FINANCIAL ANALYST: Tier-1 Data Handler. Handles raw customer banking data.
+    4. SYSTEM ADMIN: Tier-1 Data Handler. Root access privileges.
+    
+    COMPLIANCE NOTE:
+    All Tier-1 roles are subject to quarterly audits. 
+    Any violation of the on-premise rule will result in immediate suspension.
+    
+    === IT SECURITY CLASSIFICATION MATRIX v9.0 ===
+    ROLE DEFINITIONS:
+    
+    1. JUNIOR DEVELOPER: Tier-3 Access. Remote Allowed.
+    2. SENIOR ARCHITECT: Tier-2 Access. Remote Allowed.
+    3. FINANCIAL ANALYST: Tier-1 Data Handler. Handles raw customer banking data.
+    4. SYSTEM ADMIN: Tier-1 Data Handler. Root access privileges.
+    
+    COMPLIANCE NOTE:
+    All Tier-1 roles are subject to quarterly audits. 
+    Any violation of the on-premise rule will result in immediate suspension.
+    
+    === IT SECURITY CLASSIFICATION MATRIX v9.0 ===
+    ROLE DEFINITIONS:
+    
+    1. JUNIOR DEVELOPER: Tier-3 Access. Remote Allowed.
+    2. SENIOR ARCHITECT: Tier-2 Access. Remote Allowed.
+    3. FINANCIAL ANALYST: Tier-1 Data Handler. Handles raw customer banking data.
+    4. SYSTEM ADMIN: Tier-1 Data Handler. Root access privileges.
+    
+    COMPLIANCE NOTE:
+    All Tier-1 roles are subject to quarterly audits. 
+    Any violation of the on-premise rule will result in immediate suspension.
+    
+    === IT SECURITY CLASSIFICATION MATRIX v9.0 ===
+    ROLE DEFINITIONS:
+    
+    1. JUNIOR DEVELOPER: Tier-3 Access. Remote Allowed.
+    2. SENIOR ARCHITECT: Tier-2 Access. Remote Allowed.
+    3. FINANCIAL ANALYST: Tier-1 Data Handler. Handles raw customer banking data.
+    4. SYSTEM ADMIN: Tier-1 Data Handler. Root access privileges.
+    
+    COMPLIANCE NOTE:
+    All Tier-1 roles are subject to quarterly audits. 
+    Any violation of the on-premise rule will result in immediate suspension.
+    
+    === IT SECURITY CLASSIFICATION MATRIX v9.0 ===
+    ROLE DEFINITIONS:
+    
+    1. JUNIOR DEVELOPER: Tier-3 Access. Remote Allowed.
+    2. SENIOR ARCHITECT: Tier-2 Access. Remote Allowed.
+    3. FINANCIAL ANALYST: Tier-1 Data Handler. Handles raw customer banking data.
+    4. SYSTEM ADMIN: Tier-1 Data Handler. Root access privileges.
+    
+    COMPLIANCE NOTE:
+    All Tier-1 roles are subject to quarterly audits. 
+    Any violation of the on-premise rule will result in immediate suspension.
+    
+    === IT SECURITY CLASSIFICATION MATRIX v9.0 ===
+    ROLE DEFINITIONS:
+    
+    1. JUNIOR DEVELOPER: Tier-3 Access. Remote Allowed.
+    2. SENIOR ARCHITECT: Tier-2 Access. Remote Allowed.
+    3. FINANCIAL ANALYST: Tier-1 Data Handler. Handles raw customer banking data.
+    4. SYSTEM ADMIN: Tier-1 Data Handler. Root access privileges.
+    
+    COMPLIANCE NOTE:
+    All Tier-1 roles are subject to quarterly audits. 
+    Any violation of the on-premise rule will result in immediate suspension.
+    
+    === IT SECURITY CLASSIFICATION MATRIX v9.0 ===
+    ROLE DEFINITIONS:
+    
+    1. JUNIOR DEVELOPER: Tier-3 Access. Remote Allowed.
+    2. SENIOR ARCHITECT: Tier-2 Access. Remote Allowed.
+    3. FINANCIAL ANALYST: Tier-1 Data Handler. Handles raw customer banking data.
+    4. SYSTEM ADMIN: Tier-1 Data Handler. Root access privileges.
+    
+    COMPLIANCE NOTE:
+    All Tier-1 roles are subject to quarterly audits. 
+    Any violation of the on-premise rule will result in immediate suspension.
+    
+    === IT SECURITY CLASSIFICATION MATRIX v9.0 ===
+    ROLE DEFINITIONS:
+    
+    1. JUNIOR DEVELOPER: Tier-3 Access. Remote Allowed.
+    2. SENIOR ARCHITECT: Tier-2 Access. Remote Allowed.
+    3. FINANCIAL ANALYST: Tier-1 Data Handler. Handles raw customer banking data.
+    4. SYSTEM ADMIN: Tier-1 Data Handler. Root access privileges.
+    
+    COMPLIANCE NOTE:
+    All Tier-1 roles are subject to quarterly audits. 
+    Any violation of the on-premise rule will result in immediate suspension.
+    
+    === IT SECURITY CLASSIFICATION MATRIX v9.0 ===
+    ROLE DEFINITIONS:
+    
+    1. JUNIOR DEVELOPER: Tier-3 Access. Remote Allowed.
+    2. SENIOR ARCHITECT: Tier-2 Access. Remote Allowed.
+    3. FINANCIAL ANALYST: Tier-1 Data Handler. Handles raw customer banking data.
+    4. SYSTEM ADMIN: Tier-1 Data Handler. Root access privileges.
+    
+    COMPLIANCE NOTE:
+    All Tier-1 roles are subject to quarterly audits. 
+    Any violation of the on-premise rule will result in immediate suspension.
+    
+    === IT SECURITY CLASSIFICATION MATRIX v9.0 ===
+    ROLE DEFINITIONS:
+    
+    1. JUNIOR DEVELOPER: Tier-3 Access. Remote Allowed.
+    2. SENIOR ARCHITECT: Tier-2 Access. Remote Allowed.
+    3. FINANCIAL ANALYST: Tier-1 Data Handler. Handles raw customer banking data.
+    4. SYSTEM ADMIN: Tier-1 Data Handler. Root access privileges.
+    
+    COMPLIANCE NOTE:
+    All Tier-1 roles are subject to quarterly audits. 
+    Any violation of the on-premise rule will result in immediate suspension.
+    
+    === IT SECURITY CLASSIFICATION MATRIX v9.0 ===
+    ROLE DEFINITIONS:
+    
+    1. JUNIOR DEVELOPER: Tier-3 Access. Remote Allowed.
+    2. SENIOR ARCHITECT: Tier-2 Access. Remote Allowed.
+    3. FINANCIAL ANALYST: Tier-1 Data Handler. Handles raw customer banking data.
+    4. SYSTEM ADMIN: Tier-1 Data Handler. Root access privileges.
+    
+    COMPLIANCE NOTE:
+    All Tier-1 roles are subject to quarterly audits. 
+    Any violation of the on-premise rule will result in immediate suspension.
+    
+    === IT SECURITY CLASSIFICATION MATRIX v9.0 ===
+    ROLE DEFINITIONS:
+    
+    1. JUNIOR DEVELOPER: Tier-3 Access. Remote Allowed.
+    2. SENIOR ARCHITECT: Tier-2 Access. Remote Allowed.
+    3. FINANCIAL ANALYST: Tier-1 Data Handler. Handles raw customer banking data.
+    4. SYSTEM ADMIN: Tier-1 Data Handler. Root access privileges.
+    
+    COMPLIANCE NOTE:
+    All Tier-1 roles are subject to quarterly audits. 
+    Any violation of the on-premise rule will result in immediate suspension.
+    
+    === IT SECURITY CLASSIFICATION MATRIX v9.0 ===
+    ROLE DEFINITIONS:
+    
+    1. JUNIOR DEVELOPER: Tier-3 Access. Remote Allowed.
+    2. SENIOR ARCHITECT: Tier-2 Access. Remote Allowed.
+    3. FINANCIAL ANALYST: Tier-1 Data Handler. Handles raw customer banking data.
+    4. SYSTEM ADMIN: Tier-1 Data Handler. Root access privileges.
+    
+    COMPLIANCE NOTE:
+    All Tier-1 roles are subject to quarterly audits. 
+    Any violation of the on-premise rule will result in immediate suspension.
+    
+    === IT SECURITY CLASSIFICATION MATRIX v9.0 ===
+    ROLE DEFINITIONS:
+    
+    1. JUNIOR DEVELOPER: Tier-3 Access. Remote Allowed.
+    2. SENIOR ARCHITECT: Tier-2 Access. Remote Allowed.
+    3. FINANCIAL ANALYST: Tier-1 Data Handler. Handles raw customer banking data.
+    4. SYSTEM ADMIN: Tier-1 Data Handler. Root access privileges.
+    
+    COMPLIANCE NOTE:
+    All Tier-1 roles are subject to quarterly audits. 
+    Any violation of the on-premise rule will result in immediate suspension.
+    
+    === IT SECURITY CLASSIFICATION MATRIX v9.0 ===
+    ROLE DEFINITIONS:
+    
+    1. JUNIOR DEVELOPER: Tier-3 Access. Remote Allowed.
+    2. SENIOR ARCHITECT: Tier-2 Access. Remote Allowed.
+    3. FINANCIAL ANALYST: Tier-1 Data Handler. Handles raw customer banking data.
+    4. SYSTEM ADMIN: Tier-1 Data Handler. Root access privileges.
+    
+    COMPLIANCE NOTE:
+    All Tier-1 roles are subject to quarterly audits. 
+    Any violation of the on-premise rule will result in immediate suspension.
+    
+    === IT SECURITY CLASSIFICATION MATRIX v9.0 ===
+    ROLE DEFINITIONS:
+    
+    1. JUNIOR DEVELOPER: Tier-3 Access. Remote Allowed.
+    2. SENIOR ARCHITECT: Tier-2 Access. Remote Allowed.
+    3. FINANCIAL ANALYST: Tier-1 Data Handler. Handles raw customer banking data.
+    4. SYSTEM ADMIN: Tier-1 Data Handler. Root access privileges.
+    
+    COMPLIANCE NOTE:
+    All Tier-1 roles are subject to quarterly audits. 
+    Any violation of the on-premise rule will result in immediate suspension.
+    
+    === IT SECURITY CLASSIFICATION MATRIX v9.0 ===
+    ROLE DEFINITIONS:
+    
+    1. JUNIOR DEVELOPER: Tier-3 Access. Remote Allowed.
+    2. SENIOR ARCHITECT: Tier-2 Access. Remote Allowed.
+    3. FINANCIAL ANALYST: Tier-1 Data Handler. Handles raw customer banking data.
+    4. SYSTEM ADMIN: Tier-1 Data Handler. Root access privileges.
+    
+    COMPLIANCE NOTE:
+    All Tier-1 roles are subject to quarterly audits. 
+    Any violation of the on-premise rule will result in immediate suspension.
+    
+    === IT SECURITY CLASSIFICATION MATRIX v9.0 ===
+    ROLE DEFINITIONS:
+    
+    1. JUNIOR DEVELOPER: Tier-3 Access. Remote Allowed.
+    2. SENIOR ARCHITECT: Tier-2 Access. Remote Allowed.
+    3. FINANCIAL ANALYST: Tier-1 Data Handler. Handles raw customer banking data.
+    4. SYSTEM ADMIN: Tier-1 Data Handler. Root access privileges.
+    
+    COMPLIANCE NOTE:
+    All Tier-1 roles are subject to quarterly audits. 
+    Any violation of the on-premise rule will result in immediate suspension.
+    
+    === IT SECURITY CLASSIFICATION MATRIX v9.0 ===
+    ROLE DEFINITIONS:
+    
+    1. JUNIOR DEVELOPER: Tier-3 Access. Remote Allowed.
+    2. SENIOR ARCHITECT: Tier-2 Access. Remote Allowed.
+    3. FINANCIAL ANALYST: Tier-1 Data Handler. Handles raw customer banking data.
+    4. SYSTEM ADMIN: Tier-1 Data Handler. Root access privileges.
+    
+    COMPLIANCE NOTE:
+    All Tier-1 roles are subject to quarterly audits. 
+    Any violation of the on-premise rule will result in immediate suspension.
+    
+    === IT SECURITY CLASSIFICATION MATRIX v9.0 ===
+    ROLE DEFINITIONS:
+    
+    1. JUNIOR DEVELOPER: Tier-3 Access. Remote Allowed.
+    2. SENIOR ARCHITECT: Tier-2 Access. Remote Allowed.
+    3. FINANCIAL ANALYST: Tier-1 Data Handler. Handles raw customer banking data.
+    4. SYSTEM ADMIN: Tier-1 Data Handler. Root access privileges.
+    
+    COMPLIANCE NOTE:
+    All Tier-1 roles are subject to quarterly audits. 
+    Any violation of the on-premise rule will result in immediate suspension.
+    
+    === IT SECURITY CLASSIFICATION MATRIX v9.0 ===
+    ROLE DEFINITIONS:
+    
+    1. JUNIOR DEVELOPER: Tier-3 Access. Remote Allowed.
+    2. SENIOR ARCHITECT: Tier-2 Access. Remote Allowed.
+    3. FINANCIAL ANALYST: Tier-1 Data Handler. Handles raw customer banking data.
+    4. SYSTEM ADMIN: Tier-1 Data Handler. Root access privileges.
+    
+    COMPLIANCE NOTE:
+    All Tier-1 roles are subject to quarterly audits. 
+    Any violation of the on-premise rule will result in immediate suspension.
+    
+    === IT SECURITY CLASSIFICATION MATRIX v9.0 ===
+    ROLE DEFINITIONS:
+    
+    1. JUNIOR DEVELOPER: Tier-3 Access. Remote Allowed.
+    2. SENIOR ARCHITECT: Tier-2 Access. Remote Allowed.
+    3. FINANCIAL ANALYST: Tier-1 Data Handler. Handles raw customer banking data.
+    4. SYSTEM ADMIN: Tier-1 Data Handler. Root access privileges.
+    
+    COMPLIANCE NOTE:
+    All Tier-1 roles are subject to quarterly audits. 
+    Any violation of the on-premise rule will result in immediate suspension.
+    
+    === IT SECURITY CLASSIFICATION MATRIX v9.0 ===
+    ROLE DEFINITIONS:
+    
+    1. JUNIOR DEVELOPER: Tier-3 Access. Remote Allowed.
+    2. SENIOR ARCHITECT: Tier-2 Access. Remote Allowed.
+    3. FINANCIAL ANALYST: Tier-1 Data Handler. Handles raw customer banking data.
+    4. SYSTEM ADMIN: Tier-1 Data Handler. Root access privileges.
+    
+    COMPLIANCE NOTE:
+    All Tier-1 roles are subject to quarterly audits. 
+    Any violation of the on-premise rule will result in immediate suspension.
+    
+    === IT SECURITY CLASSIFICATION MATRIX v9.0 ===
+    ROLE DEFINITIONS:
+    
+    1. JUNIOR DEVELOPER: Tier-3 Access. Remote Allowed.
+    2. SENIOR ARCHITECT: Tier-2 Access. Remote Allowed.
+    3. FINANCIAL ANALYST: Tier-1 Data Handler. Handles raw customer banking data.
+    4. SYSTEM ADMIN: Tier-1 Data Handler. Root access privileges.
+    
+    COMPLIANCE NOTE:
+    All Tier-1 roles are subject to quarterly audits. 
+    Any violation of the on-premise rule will result in immediate suspension.
+    
+    === IT SECURITY CLASSIFICATION MATRIX v9.0 ===
+    ROLE DEFINITIONS:
+    
+    1. JUNIOR DEVELOPER: Tier-3 Access. Remote Allowed.
+    2. SENIOR ARCHITECT: Tier-2 Access. Remote Allowed.
+    3. FINANCIAL ANALYST: Tier-1 Data Handler. Handles raw customer banking data.
+    4. SYSTEM ADMIN: Tier-1 Data Handler. Root access privileges.
+    
+    COMPLIANCE NOTE:
+    All Tier-1 roles are subject to quarterly audits. 
+    Any violation of the on-premise rule will result in immediate suspension.
+    
+    === IT SECURITY CLASSIFICATION MATRIX v9.0 ===
+    ROLE DEFINITIONS:
+    
+    1. JUNIOR DEVELOPER: Tier-3 Access. Remote Allowed.
+    2. SENIOR ARCHITECT: Tier-2 Access. Remote Allowed.
+    3. FINANCIAL ANALYST: Tier-1 Data Handler. Handles raw customer banking data.
+    4. SYSTEM ADMIN: Tier-1 Data Handler. Root access privileges.
+    
+    COMPLIANCE NOTE:
+    All Tier-1 roles are subject to quarterly audits. 
+    Any violation of the on-premise rule will result in immediate suspension.
+    
+    === IT SECURITY CLASSIFICATION MATRIX v9.0 ===
+    ROLE DEFINITIONS:
+    
+    1. JUNIOR DEVELOPER: Tier-3 Access. Remote Allowed.
+    2. SENIOR ARCHITECT: Tier-2 Access. Remote Allowed.
+    3. FINANCIAL ANALYST: Tier-1 Data Handler. Handles raw customer banking data.
+    4. SYSTEM ADMIN: Tier-1 Data Handler. Root access privileges.
+    
+    COMPLIANCE NOTE:
+    All Tier-1 roles are subject to quarterly audits. 
+    Any violation of the on-premise rule will result in immediate suspension.
+    
+    === IT SECURITY CLASSIFICATION MATRIX v9.0 ===
+    ROLE DEFINITIONS:
+    
+    1. JUNIOR DEVELOPER: Tier-3 Access. Remote Allowed.
+    2. SENIOR ARCHITECT: Tier-2 Access. Remote Allowed.
+    3. FINANCIAL ANALYST: Tier-1 Data Handler. Handles raw customer banking data.
+    4. SYSTEM ADMIN: Tier-1 Data Handler. Root access privileges.
+    
+    COMPLIANCE NOTE:
+    All Tier-1 roles are subject to quarterly audits. 
+    Any violation of the on-premise rule will result in immediate suspension.
+    
+    === IT SECURITY CLASSIFICATION MATRIX v9.0 ===
+    ROLE DEFINITIONS:
+    
+    1. JUNIOR DEVELOPER: Tier-3 Access. Remote Allowed.
+    2. SENIOR ARCHITECT: Tier-2 Access. Remote Allowed.
+    3. FINANCIAL ANALYST: Tier-1 Data Handler. Handles raw customer banking data.
+    4. SYSTEM ADMIN: Tier-1 Data Handler. Root access privileges.
+    
+    COMPLIANCE NOTE:
+    All Tier-1 roles are subject to quarterly audits. 
+    Any violation of the on-premise rule will result in immediate suspension.
+    
+    === IT SECURITY CLASSIFICATION MATRIX v9.0 ===
+    ROLE DEFINITIONS:
+    
+    1. JUNIOR DEVELOPER: Tier-3 Access. Remote Allowed.
+    2. SENIOR ARCHITECT: Tier-2 Access. Remote Allowed.
+    3. FINANCIAL ANALYST: Tier-1 Data Handler. Handles raw customer banking data.
+    4. SYSTEM ADMIN: Tier-1 Data Handler. Root access privileges.
+    
+    COMPLIANCE NOTE:
+    All Tier-1 roles are subject to quarterly audits. 
+    Any violation of the on-premise rule will result in immediate suspension.
+    
+    === IT SECURITY CLASSIFICATION MATRIX v9.0 ===
+    ROLE DEFINITIONS:
+    
+    1. JUNIOR DEVELOPER: Tier-3 Access. Remote Allowed.
+    2. SENIOR ARCHITECT: Tier-2 Access. Remote Allowed.
+    3. FINANCIAL ANALYST: Tier-1 Data Handler. Handles raw customer banking data.
+    4. SYSTEM ADMIN: Tier-1 Data Handler. Root access privileges.
+    
+    COMPLIANCE NOTE:
+    All Tier-1 roles are subject to quarterly audits. 
+    Any violation of the on-premise rule will result in immediate suspension.
+    
+    === IT SECURITY CLASSIFICATION MATRIX v9.0 ===
+    ROLE DEFINITIONS:
+    
+    1. JUNIOR DEVELOPER: Tier-3 Access. Remote Allowed.
+    2. SENIOR ARCHITECT: Tier-2 Access. Remote Allowed.
+    3. FINANCIAL ANALYST: Tier-1 Data Handler. Handles raw customer banking data.
+    4. SYSTEM ADMIN: Tier-1 Data Handler. Root access privileges.
+    
+    COMPLIANCE NOTE:
+    All Tier-1 roles are subject to quarterly audits. 
+    Any violation of the on-premise rule will result in immediate suspension.
+    
+    === IT SECURITY CLASSIFICATION MATRIX v9.0 ===
+    ROLE DEFINITIONS:
+    
+    1. JUNIOR DEVELOPER: Tier-3 Access. Remote Allowed.
+    2. SENIOR ARCHITECT: Tier-2 Access. Remote Allowed.
+    3. FINANCIAL ANALYST: Tier-1 Data Handler. Handles raw customer banking data.
+    4. SYSTEM ADMIN: Tier-1 Data Handler. Root access privileges.
+    
+    COMPLIANCE NOTE:
+    All Tier-1 roles are subject to quarterly audits. 
+    Any violation of the on-premise rule will result in immediate suspension.
+    
+    === IT SECURITY CLASSIFICATION MATRIX v9.0 ===
+    ROLE DEFINITIONS:
+    
+    1. JUNIOR DEVELOPER: Tier-3 Access. Remote Allowed.
+    2. SENIOR ARCHITECT: Tier-2 Access. Remote Allowed.
+    3. FINANCIAL ANALYST: Tier-1 Data Handler. Handles raw customer banking data.
+    4. SYSTEM ADMIN: Tier-1 Data Handler. Root access privileges.
+    
+    COMPLIANCE NOTE:
+    All Tier-1 roles are subject to quarterly audits. 
+    Any violation of the on-premise rule will result in immediate suspension.
+    
+    === IT SECURITY CLASSIFICATION MATRIX v9.0 ===
+    ROLE DEFINITIONS:
+    
+    1. JUNIOR DEVELOPER: Tier-3 Access. Remote Allowed.
+    2. SENIOR ARCHITECT: Tier-2 Access. Remote Allowed.
+    3. FINANCIAL ANALYST: Tier-1 Data Handler. Handles raw customer banking data.
+    4. SYSTEM ADMIN: Tier-1 Data Handler. Root access privileges.
+    
+    COMPLIANCE NOTE:
+    All Tier-1 roles are subject to quarterly audits. 
+    Any violation of the on-premise rule will result in immediate suspension.
+    
+    === IT SECURITY CLASSIFICATION MATRIX v9.0 ===
+    ROLE DEFINITIONS:
+    
+    1. JUNIOR DEVELOPER: Tier-3 Access. Remote Allowed.
+    2. SENIOR ARCHITECT: Tier-2 Access. Remote Allowed.
+    3. FINANCIAL ANALYST: Tier-1 Data Handler. Handles raw customer banking data.
+    4. SYSTEM ADMIN: Tier-1 Data Handler. Root access privileges.
+    
+    COMPLIANCE NOTE:
+    All Tier-1 roles are subject to quarterly audits. 
+    Any violation of the on-premise rule will result in immediate suspension.
+    
+    === IT SECURITY CLASSIFICATION MATRIX v9.0 ===
+    ROLE DEFINITIONS:
+    
+    1. JUNIOR DEVELOPER: Tier-3 Access. Remote Allowed.
+    2. SENIOR ARCHITECT: Tier-2 Access. Remote Allowed.
+    3. FINANCIAL ANALYST: Tier-1 Data Handler. Handles raw customer banking data.
+    4. SYSTEM ADMIN: Tier-1 Data Handler. Root access privileges.
+    
+    COMPLIANCE NOTE:
+    All Tier-1 roles are subject to quarterly audits. 
+    Any violation of the on-premise rule will result in immediate suspension.
+    
+    === IT SECURITY CLASSIFICATION MATRIX v9.0 ===
+    ROLE DEFINITIONS:
+    
+    1. JUNIOR DEVELOPER: Tier-3 Access. Remote Allowed.
+    2. SENIOR ARCHITECT: Tier-2 Access. Remote Allowed.
+    3. FINANCIAL ANALYST: Tier-1 Data Handler. Handles raw customer banking data.
+    4. SYSTEM ADMIN: Tier-1 Data Handler. Root access privileges.
+    
+    COMPLIANCE NOTE:
+    All Tier-1 roles are subject to quarterly audits. 
+    Any violation of the on-premise rule will result in immediate suspension.
+    
+    === IT SECURITY CLASSIFICATION MATRIX v9.0 ===
+    ROLE DEFINITIONS:
+    
+    1. JUNIOR DEVELOPER: Tier-3 Access. Remote Allowed.
+    2. SENIOR ARCHITECT: Tier-2 Access. Remote Allowed.
+    3. FINANCIAL ANALYST: Tier-1 Data Handler. Handles raw customer banking data.
+    4. SYSTEM ADMIN: Tier-1 Data Handler. Root access privileges.
+    
+    COMPLIANCE NOTE:
+    All Tier-1 roles are subject to quarterly audits. 
+    Any violation of the on-premise rule will result in immediate suspension.
+    
+    === IT SECURITY CLASSIFICATION MATRIX v9.0 ===
+    ROLE DEFINITIONS:
+    
+    1. JUNIOR DEVELOPER: Tier-3 Access. Remote Allowed.
+    2. SENIOR ARCHITECT: Tier-2 Access. Remote Allowed.
+    3. FINANCIAL ANALYST: Tier-1 Data Handler. Handles raw customer banking data.
+    4. SYSTEM ADMIN: Tier-1 Data Handler. Root access privileges.
+    
+    COMPLIANCE NOTE:
+    All Tier-1 roles are subject to quarterly audits. 
+    Any violation of the on-premise rule will result in immediate suspension.
+    
+    === IT SECURITY CLASSIFICATION MATRIX v9.0 ===
+    ROLE DEFINITIONS:
+    
+    1. JUNIOR DEVELOPER: Tier-3 Access. Remote Allowed.
+    2. SENIOR ARCHITECT: Tier-2 Access. Remote Allowed.
+    3. FINANCIAL ANALYST: Tier-1 Data Handler. Handles raw customer banking data.
+    4. SYSTEM ADMIN: Tier-1 Data Handler. Root access privileges.
+    
+    COMPLIANCE NOTE:
+    All Tier-1 roles are subject to quarterly audits. 
+    Any violation of the on-premise rule will result in immediate suspension.
+    
+    === IT SECURITY CLASSIFICATION MATRIX v9.0 ===
+    ROLE DEFINITIONS:
+    
+    1. JUNIOR DEVELOPER: Tier-3 Access. Remote Allowed.
+    2. SENIOR ARCHITECT: Tier-2 Access. Remote Allowed.
+    3. FINANCIAL ANALYST: Tier-1 Data Handler. Handles raw customer banking data.
+    4. SYSTEM ADMIN: Tier-1 Data Handler. Root access privileges.
+    
+    COMPLIANCE NOTE:
+    All Tier-1 roles are subject to quarterly audits. 
+    Any violation of the on-premise rule will result in immediate suspension.
+    
+    === IT SECURITY CLASSIFICATION MATRIX v9.0 ===
+    ROLE DEFINITIONS:
+    
+    1. JUNIOR DEVELOPER: Tier-3 Access. Remote Allowed.
+    2. SENIOR ARCHITECT: Tier-2 Access. Remote Allowed.
+    3. FINANCIAL ANALYST: Tier-1 Data Handler. Handles raw customer banking data.
+    4. SYSTEM ADMIN: Tier-1 Data Handler. Root access privileges.
+    
+    COMPLIANCE NOTE:
+    All Tier-1 roles are subject to quarterly audits. 
+    Any violation of the on-premise rule will result in immediate suspension.
+    
+    === IT SECURITY CLASSIFICATION MATRIX v9.0 ===
+    ROLE DEFINITIONS:
+    
+    1. JUNIOR DEVELOPER: Tier-3 Access. Remote Allowed.
+    2. SENIOR ARCHITECT: Tier-2 Access. Remote Allowed.
+    3. FINANCIAL ANALYST: Tier-1 Data Handler. Handles raw customer banking data.
+    4. SYSTEM ADMIN: Tier-1 Data Handler. Root access privileges.
+    
+    COMPLIANCE NOTE:
+    All Tier-1 roles are subject to quarterly audits. 
+    Any violation of the on-premise rule will result in immediate suspension.
+    
+    === IT SECURITY CLASSIFICATION MATRIX v9.0 ===
+    ROLE DEFINITIONS:
+    
+    1. JUNIOR DEVELOPER: Tier-3 Access. Remote Allowed.
+    2. SENIOR ARCHITECT: Tier-2 Access. Remote Allowed.
+    3. FINANCIAL ANALYST: Tier-1 Data Handler. Handles raw customer banking data.
+    4. SYSTEM ADMIN: Tier-1 Data Handler. Root access privileges.
+    
+    COMPLIANCE NOTE:
+    All Tier-1 roles are subject to quarterly audits. 
+    Any violation of the on-premise rule will result in immediate suspension.
+    
+    === IT SECURITY CLASSIFICATION MATRIX v9.0 ===
+    ROLE DEFINITIONS:
+    
+    1. JUNIOR DEVELOPER: Tier-3 Access. Remote Allowed.
+    2. SENIOR ARCHITECT: Tier-2 Access. Remote Allowed.
+    3. FINANCIAL ANALYST: Tier-1 Data Handler. Handles raw customer banking data.
+    4. SYSTEM ADMIN: Tier-1 Data Handler. Root access privileges.
+    
+    COMPLIANCE NOTE:
+    All Tier-1 roles are subject to quarterly audits. 
+    Any violation of the on-premise rule will result in immediate suspension.
+    
+    === IT SECURITY CLASSIFICATION MATRIX v9.0 ===
+    ROLE DEFINITIONS:
+    
+    1. JUNIOR DEVELOPER: Tier-3 Access. Remote Allowed.
+    2. SENIOR ARCHITECT: Tier-2 Access. Remote Allowed.
+    3. FINANCIAL ANALYST: Tier-1 Data Handler. Handles raw customer banking data.
+    4. SYSTEM ADMIN: Tier-1 Data Handler. Root access privileges.
+    
+    COMPLIANCE NOTE:
+    All Tier-1 roles are subject to quarterly audits. 
+    Any violation of the on-premise rule will result in immediate suspension.
+    
+    === IT SECURITY CLASSIFICATION MATRIX v9.0 ===
+    ROLE DEFINITIONS:
+    
+    1. JUNIOR DEVELOPER: Tier-3 Access. Remote Allowed.
+    2. SENIOR ARCHITECT: Tier-2 Access. Remote Allowed.
+    3. FINANCIAL ANALYST: Tier-1 Data Handler. Handles raw customer banking data.
+    4. SYSTEM ADMIN: Tier-1 Data Handler. Root access privileges.
+    
+    COMPLIANCE NOTE:
+    All Tier-1 roles are subject to quarterly audits. 
+    Any violation of the on-premise rule will result in immediate suspension.
+    
+    === IT SECURITY CLASSIFICATION MATRIX v9.0 ===
+    ROLE DEFINITIONS:
+    
+    1. JUNIOR DEVELOPER: Tier-3 Access. Remote Allowed.
+    2. SENIOR ARCHITECT: Tier-2 Access. Remote Allowed.
+    3. FINANCIAL ANALYST: Tier-1 Data Handler. Handles raw customer banking data.
+    4. SYSTEM ADMIN: Tier-1 Data Handler. Root access privileges.
+    
+    COMPLIANCE NOTE:
+    All Tier-1 roles are subject to quarterly audits. 
+    Any violation of the on-premise rule will result in immediate suspension.
+    
+    === IT SECURITY CLASSIFICATION MATRIX v9.0 ===
+    ROLE DEFINITIONS:
+    
+    1. JUNIOR DEVELOPER: Tier-3 Access. Remote Allowed.
+    2. SENIOR ARCHITECT: Tier-2 Access. Remote Allowed.
+    3. FINANCIAL ANALYST: Tier-1 Data Handler. Handles raw customer banking data.
+    4. SYSTEM ADMIN: Tier-1 Data Handler. Root access privileges.
+    
+    COMPLIANCE NOTE:
+    All Tier-1 roles are subject to quarterly audits. 
+    Any violation of the on-premise rule will result in immediate suspension.
+    

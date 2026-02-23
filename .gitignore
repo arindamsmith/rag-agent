@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+qdrant_storage/
+logs/
+*.log
+.DS_Store
+venv/
+EOF
